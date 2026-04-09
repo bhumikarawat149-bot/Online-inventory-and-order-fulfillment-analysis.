@@ -1,1 +1,1 @@
-# Online-inventory-and-order-fulfillment-analysis.
+Smart Inventory Optimization and Fulfillment Intelligence System
